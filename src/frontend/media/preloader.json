@@ -1,0 +1,333 @@
+{
+  "frames": {
+    "info/Win_outline.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 568,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 7,
+        "w": 568,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 584,
+        "h": 345
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "info/Win.png": {
+      "frame": {
+        "x": 571,
+        "y": 1,
+        "w": 568,
+        "h": 324
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 7,
+        "w": 568,
+        "h": 324
+      },
+      "sourceSize": {
+        "w": 584,
+        "h": 345
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "preloader_scalebar/01.png": {
+      "frame": {
+        "x": 1141,
+        "y": 1,
+        "w": 469,
+        "h": 47
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 5,
+        "w": 469,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 490,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "preloader_scalebar/02.png": {
+      "frame": {
+        "x": 1612,
+        "y": 1,
+        "w": 469,
+        "h": 47
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 5,
+        "w": 469,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 490,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "preloader_scalebar/03.png": {
+      "frame": {
+        "x": 2083,
+        "y": 1,
+        "w": 469,
+        "h": 47
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 5,
+        "w": 469,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 490,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "preloader_scalebar/04.png": {
+      "frame": {
+        "x": 2554,
+        "y": 1,
+        "w": 469,
+        "h": 47
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 5,
+        "w": 469,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 490,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "preloader_scalebar/05.png": {
+      "frame": {
+        "x": 3025,
+        "y": 1,
+        "w": 469,
+        "h": 47
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 5,
+        "w": 469,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 490,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "preloader_scalebar/06.png": {
+      "frame": {
+        "x": 3496,
+        "y": 1,
+        "w": 469,
+        "h": 47
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 5,
+        "w": 469,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 490,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "preloader_scalebar/07.png": {
+      "frame": {
+        "x": 3967,
+        "y": 1,
+        "w": 469,
+        "h": 47
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 5,
+        "w": 469,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 490,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "preloader_loading/04.png": {
+      "frame": {
+        "x": 4016,
+        "y": 1,
+        "w": 233,
+        "h": 33
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 4,
+        "w": 233,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "preloader_loading/03.png": {
+      "frame": {
+        "x": 4051,
+        "y": 1,
+        "w": 221,
+        "h": 33
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 4,
+        "w": 221,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "preloader_loading/02.png": {
+      "frame": {
+        "x": 4051,
+        "y": 224,
+        "w": 209,
+        "h": 33
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 4,
+        "w": 209,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "preloader_loading/01.png": {
+      "frame": {
+        "x": 4016,
+        "y": 236,
+        "w": 195,
+        "h": 33
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 4,
+        "w": 195,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+
+  "animations" : {
+    "preloader_loading" : ["preloader_loading/01.png","preloader_loading/02.png","preloader_loading/03.png","preloader_loading/04.png"],
+    "preloader_scalebar" : ["preloader_scalebar/01.png","preloader_scalebar/02.png","preloader_scalebar/03.png","preloader_scalebar/04.png","preloader_scalebar/05.png","preloader_scalebar/06.png","preloader_scalebar/07.png"]
+  },
+
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "preloader.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4096,
+      "h": 512
+    },
+    "scale": 1
+  }
+}

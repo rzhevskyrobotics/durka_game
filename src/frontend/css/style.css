@@ -1,0 +1,23 @@
+* {
+    padding: 0; 
+    margin: 0
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url("/assets/fonts/Montserrat-Bold.woff2") format('woff2');
+}
+
+@font-face {
+    font-family: 'Montserrat-Light';
+    src: url("/assets/fonts/Montserrat-Light.woff2") format('woff2');
+}
+
+
+
+/* @font-face {
+    font-family: 'Undertale Battle Font';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://test2.alyshkina.ru/undertale_battle_font.woff2') format('woff2');
+} */
